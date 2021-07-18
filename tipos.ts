@@ -35,7 +35,7 @@ function printarNaTela(msg: string) {
 }
 
 // Null e Undefined
-const u: undefined = undefined;
+const u1: undefined = undefined;
 const u: null = null;
 
 // Object
@@ -61,7 +61,7 @@ function falha(){
 }
 
 // union Types
-const = nota: string | number = 5;
+//const  = nota: string | number = 5;
 
 function ExibirNota(nota: number | string) {
    console.log(`A nota é: ${nota}`);
