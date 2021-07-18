@@ -1,6 +1,5 @@
-
-// resultado do codigo feito pelo typescript
 "use strict";
+//mostrando as regras do typerscript para rodar no javascript
 function somar(numero1, numero2) {
     return numero1 + numero2;
 }
